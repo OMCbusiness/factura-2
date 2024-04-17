@@ -6,7 +6,7 @@
         Gestión de campo extras""",
 
     'description': """
-        Gestión de campo extras de Nanomol
+        Gestión de campo extras de Pablo
     """,
 
     'author': "Alberto Ruiz",
